@@ -1,0 +1,14 @@
+{
+    "name": "VHDL Development",
+    "build": {
+        "dockerfile": "Dockerfile"
+    },
+    "customizations": {
+        "vscode": {
+            "extensions": [
+                "puorc.awesome-vhdl"
+            ]
+        }
+    }    
+    //"remoteUser": "daytona"
+}
