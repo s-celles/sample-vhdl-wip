@@ -26,7 +26,7 @@ Architecture:
 
 and
 
-- 5 XOR gatesd
+- 5 XOR gates
 
 ![XOR](xor.png)
 
